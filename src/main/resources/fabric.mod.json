@@ -1,0 +1,9 @@
+{
+  "id": "crafting-macguffins",
+  "name": "Crafting Macguffins",
+  "version": "1.0.0",
+  "side": "universal",
+  "initializers": [
+    "io.github.cottonmc.craftingmacguffins.CraftingMacguffins"
+  ]
+}
